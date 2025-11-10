@@ -29,6 +29,9 @@
 ## 2. Initiate Payment (Pending)
 <img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/2adcdbf3-dcac-4a7f-a205-c965080d8f49" />
 
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/c7602bc7-5f8e-4ab3-8e64-7c2b6469e933" />
+
+
 
 ## 3. Check Status (Success)
 <img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/2febe85e-4dba-4596-8f51-ca7bcab3c206" />
