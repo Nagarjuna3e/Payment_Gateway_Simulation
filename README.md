@@ -19,3 +19,16 @@
 2. Configure DB in `application.properties`
 3. Run the Spring Boot application
 4. Use Postman to test endpoints
+
+
+
+
+## 1. Database Table
+
+
+
+## 2. Initiate Payment (Pending)
+![Initiate Payment](images/initiate.png)
+
+## 3. Check Status (Success)
+![Status Success](images/status_success.png)
