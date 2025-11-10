@@ -24,11 +24,18 @@
 
 
 ## 1. Database Table
-
-
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/44f07a94-b485-4c51-8b24-3c39fd6cf638" />
 
 ## 2. Initiate Payment (Pending)
-![Initiate Payment](images/initiate.png)
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/2adcdbf3-dcac-4a7f-a205-c965080d8f49" />
+
 
 ## 3. Check Status (Success)
-![Status Success](images/status_success.png)
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/2febe85e-4dba-4596-8f51-ca7bcab3c206" />
+
+## 4. Check Status using new endpoint
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/0280f276-7e9a-4dd5-a9df-f076a84404a9" />
+
+## 5. Check Status in console
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/74c05c2c-ece2-4554-8d51-eaef41a64cba" />
+
